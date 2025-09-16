@@ -1,4 +1,5 @@
 ## Hi there 👋
+GSSOC CONTRIBUTOR
 🎓 BSc Statistics Student | 📊 Data Science Enthusiast | 🤖 Building AI for Social Good
 📍 Based in Vadodara | 💻 Python • Scikit-learn • Statistics • Visualization
 
