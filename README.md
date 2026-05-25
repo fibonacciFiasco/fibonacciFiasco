@@ -1,5 +1,20 @@
-# 💫 About Me:
-Hi there 👋<br>GSSOC CONTRIBUTOR 🎓 BSc Statistics Student | 📊 Data Science Enthusiast | 🤖 Building AI for Social Good 📍 Based in Vadodara | 💻 Python • Scikit-learn • Statistics • Visualization<br><br>🎯 Fun Facts<br><br>I’m the type of person who visualizes everything (even regression lines while daydreaming 😄)<br><br>I love solving real-world problems using data<br><br>Learning with coffee + code is my daily grind ☕💻<br><br>I teach computers to understand data in Python<br><br>I teach myself to understand people in German 🇩🇪 and French 🇫🇷<br><br>I believe good statistics + clear communication = real-world change!<br><br>💬 English, Hindi, Gujarati – My multilingual brain loves juggling syntax, grammar, and functions ✨
+💫 About Me
+Hi there 👋
+🎓 BSc Statistics Student
+📊 Aspiring Data Scientist & ML Enthusiast
+🤖 Building AI & Data-Driven Solutions for Real-World Problems
+🌱 GSSOC Contributor
+📍 Based in Vadodara, India
+
+💻 Currently working with:
+Python • Scikit-learn • Statistics • Data Visualization • React • SQL
+
+🚀 What I’m Learning
+Machine Learning with Scikit-learn
+Exploratory Data Analysis (EDA)
+Data Visualization & Storytelling
+Deep Learning Fundamentals
+Full-Stack Development with React
 
 
 ## 🌐 Socials:
